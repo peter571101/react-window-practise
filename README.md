@@ -1,3 +1,9 @@
+本项目通过虚拟列表的方式尝试解决后端发送大量数据，前端怎么渲染的情况。数据是从后端数据库中获取，再由后端传给前端。
+
+
+https://github.com/user-attachments/assets/a3a67d61-18d8-423a-a432-52329e67d395
+
+
 数据库 dorm_management
 表     students
 CREATE TABLE students (
